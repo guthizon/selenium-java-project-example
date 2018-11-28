@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="49587" started-at="2018-11-27T18:45:44Z" finished-at="2018-11-27T18:46:33Z">
+  <suite name="Default suite" duration-ms="54320" started-at="2018-11-28T11:20:14Z" finished-at="2018-11-28T11:21:09Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="49587" started-at="2018-11-27T18:45:44Z" finished-at="2018-11-27T18:46:33Z">
-      <class name="DesafioTeste1">
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:DesafioTeste1@2b98378d]" name="beforeClass" is-config="true" duration-ms="923" started-at="2018-11-27T18:45:44Z" finished-at="2018-11-27T18:45:45Z">
+    <test name="Default test" duration-ms="54320" started-at="2018-11-28T11:20:14Z" finished-at="2018-11-28T11:21:09Z">
+      <class name="DesafioTestes">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:DesafioTestes@4667ae56]" name="beforeClass" is-config="true" duration-ms="898" started-at="2018-11-28T11:20:14Z" finished-at="2018-11-28T11:20:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="verificarSeContemTexto()[pri:0, instance:DesafioTeste1@2b98378d]" name="verificarSeContemTexto" duration-ms="26686" started-at="2018-11-27T18:45:45Z" finished-at="2018-11-27T18:46:11Z">
+        <test-method status="PASS" signature="verificarSeContemTexto()[pri:0, instance:DesafioTestes@4667ae56]" name="verificarSeContemTexto" duration-ms="33541" started-at="2018-11-28T11:20:15Z" finished-at="2018-11-28T11:20:49Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verificarSeContemTexto -->
-        <test-method status="PASS" signature="compararDatas()[pri:1, instance:DesafioTeste1@2b98378d]" name="compararDatas" duration-ms="11465" started-at="2018-11-27T18:46:11Z" finished-at="2018-11-27T18:46:23Z">
+        <test-method status="PASS" signature="compararDatas()[pri:1, instance:DesafioTestes@4667ae56]" name="compararDatas" duration-ms="11691" started-at="2018-11-28T11:20:49Z" finished-at="2018-11-28T11:21:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- compararDatas -->
-        <test-method status="PASS" signature="validarVersaoPro()[pri:2, instance:DesafioTeste1@2b98378d]" name="validarVersaoPro" duration-ms="10415" started-at="2018-11-27T18:46:23Z" finished-at="2018-11-27T18:46:33Z">
+        <test-method status="PASS" signature="validarVersaoPro()[pri:2, instance:DesafioTestes@4667ae56]" name="validarVersaoPro" duration-ms="8096" started-at="2018-11-28T11:21:01Z" finished-at="2018-11-28T11:21:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validarVersaoPro -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:DesafioTeste1@2b98378d]" name="afterClass" is-config="true" duration-ms="75" started-at="2018-11-27T18:46:33Z" finished-at="2018-11-27T18:46:33Z">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:DesafioTestes@4667ae56]" name="afterClass" is-config="true" duration-ms="74" started-at="2018-11-28T11:21:09Z" finished-at="2018-11-28T11:21:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
-      </class> <!-- DesafioTeste1 -->
+      </class> <!-- DesafioTestes -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
