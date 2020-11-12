@@ -1,6 +1,6 @@
-# Desafio Teste
-Teste Gustavo Thizon<br/>
-Testes com selenium webdriver e Java
+# Selenium + Java Project Example
+Gustavo Thizon<br/>
+This is a Selenium Webdriver and Java Test
 
-Autor: Gustavo Thizon Waterkemper<br/>
-Data: 28/11/2018
+Author: Gustavo Thizon Waterkemper<br/>
+Date: 28/11/2018
