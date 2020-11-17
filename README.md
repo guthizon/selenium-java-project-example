@@ -1,6 +1,6 @@
 # Selenium + Java Project Example
 Gustavo Thizon<br/>
-This is a Selenium Webdriver and Java Test
+This is a Selenium Webdriver and Java Test </br>
 A Page Objects Pattern Project
 
 Author: Gustavo Thizon Waterkemper<br/>
